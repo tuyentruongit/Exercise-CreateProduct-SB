@@ -1,1 +1,2 @@
-![Hình ảnh](https://github.com/tuyentruongit/DoanDataBase/blob/main/Conection.png)
+![Hình ảnh](https://github.com/tuyentruongit/Exercise-CreateProduct-SB/blob/main/Capture-Result.png)
+
